@@ -10,7 +10,7 @@ public class selenium {
 		
 		System.out.println("sele");
 		
-		System.out.println("jmeter");
+		System.out.println("jmeters");
 		
 	}
 
