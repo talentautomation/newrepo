@@ -1,5 +1,5 @@
 
-public class First {
+public class selenium {
 
 	/**
 	 * @param args
