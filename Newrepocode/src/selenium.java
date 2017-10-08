@@ -10,7 +10,6 @@ public class selenium {
 		
 		System.out.println("sele");
 		
-		
 	}
 
 }
